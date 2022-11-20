@@ -4,7 +4,6 @@ import os
 import sys
 
 
-
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'infra_project.settings')
     try:
